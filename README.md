@@ -5,8 +5,9 @@ Visit following website to output:
 <https://babarbaig.github.io/wk08c-fonts/>
 
 See also:  
-<https://fonts.google.com/>
-To see how to generate a static web page on GitHub:
+<https://fonts.google.com/>  
+
+To see how to generate a static web page on GitHub:  
 
 1. Click on Settings > Pages
 2. Choose branch on left pane and select branch to host.
