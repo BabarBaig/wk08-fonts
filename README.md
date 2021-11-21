@@ -1,7 +1,7 @@
 # wk08c-fonts
 
 Experiment with fonts.  
-Visit following website to output:  
+Click below to see output:  
 <https://babarbaig.github.io/wk08c-fonts/>
 
 See also:  
