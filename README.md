@@ -7,7 +7,7 @@ Visit following website to output:
 See also:  
 <https://fonts.google.com/>  
 
-To see how to generate a static web page on GitHub:  
+To see how to generate a static web page on GitHub like theis static repo:  
 
 1. Click on Settings > Pages
 2. Choose branch on left pane and select branch to host.
